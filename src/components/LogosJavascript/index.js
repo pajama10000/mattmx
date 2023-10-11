@@ -1,1 +1,0 @@
-export { LogosJavascript } from "./LogosJavascript";
